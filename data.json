@@ -1,0 +1,76 @@
+ {
+ 	"response": {
+ 		"data": [{
+ 				"id": "4bc8088f15a7ef3b6b857ada",
+ 				"name": "Dalyan Club Restaurant",
+ 				"working_hour": "09:00 - 24:00 (Bugün)",
+ 				"contact": {
+ 					"phone": "+902125221750",
+ 					"formattedPhone": "+90 212 522 17 50"
+ 				},
+ 				"location": {
+ 					"address": "Ayasofya Myd. Sultanahmet",
+ 					"lat": 41.0082839956457,
+ 					"lng": 28.979008518719493,
+ 					"distance": 780,
+ 					"postalCode": "34122",
+ 					"cc": "TR",
+ 					"city": "Fatih",
+ 					"state": "İstanbul",
+ 					"image": "https://media-cdn.tripadvisor.com/media/photo-o/15/7a/f4/02/pago-balcony.jpg",
+ 					"country": "Türkiye"
+ 				},
+ 				"categories": [{
+ 						"id": "4bf58dd8d48988d190941735",
+ 						"name": "Oyun Parkı"
+ 					},
+ 					{
+ 						"id": "4bf58dd8d48988d190941736",
+ 						"name": "Çocuklar için Uygun"
+ 					},
+ 					{
+ 						"id": "4bf58dd8d48988d190941737",
+ 						"name": "Evcil Hayvan Dostu"
+ 					}
+
+ 				]
+ 			},
+ 			{
+ 				"id": "4bc8088f15a7ef3b6b857ada",
+ 				"name": "Cafe Cadde",
+ 				"working_hour": "09:00 - 24:00 (Bugün)",
+ 				"contact": {
+ 					"phone": "+902125221750",
+ 					"formattedPhone": "+90 212 522 17 50"
+ 				},
+ 				"location": {
+ 					"address": "Fenerbahçe, İstanbul",
+ 					"lat": 41.0082839956457,
+ 					"lng": 28.979008518719493,
+ 					"distance": 780,
+ 					"postalCode": "34122",
+ 					"cc": "TR",
+ 					"city": "Fatih",
+ 					"state": "İstanbul",
+ 					"image": "https://media-cdn.tripadvisor.com/media/photo-o/15/7a/f4/02/pago-balcony.jpg",
+ 					"country": "Türkiye"
+ 				},
+ 				"categories": [{
+ 						"id": "4bf58dd8d48988d190941735",
+ 						"name": "Oyun Parkı"
+ 					},
+ 					{
+ 						"id": "4bf58dd8d48988d190941736",
+ 						"name": "Çocuklar için Uygun"
+ 					},
+ 					{
+ 						"id": "4bf58dd8d48988d190941737",
+ 						"name": "Evcil Hayvan Dostu"
+ 					}
+
+ 				]
+ 			}
+
+ 		]
+ 	}
+ }
