@@ -4,6 +4,7 @@
  				"id": "4bc8088f15a7ef3b6b857ada",
  				"name": "Dalyan Club Restaurant",
  				"working_hour": "09:00 - 24:00 (Bugün)",
+ 				"rating": "9.2",
  				"contact": {
  					"phone": "+902125221750",
  					"formattedPhone": "+90 212 522 17 50"
@@ -39,6 +40,7 @@
  				"id": "4bc8088f15a7ef3b6b857ada",
  				"name": "Cafe Cadde",
  				"working_hour": "09:00 - 24:00 (Bugün)",
+ 				"rating": "9.8",
  				"contact": {
  					"phone": "+902125221750",
  					"formattedPhone": "+90 212 522 17 50"
