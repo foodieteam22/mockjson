@@ -1,0 +1,221 @@
+[{
+  "id": "26576",
+  "name": "Kahvaltı",
+  "position": "0",
+  "menu-items": [
+    {
+      "id": "94298",
+      "name": "Türk Kahvaltısı",
+      "position": 1,
+      "images": [],
+      "price": "95.00"
+    },
+    {
+      "id": "94301",
+      "name": "Basit ve Sağlıklı",
+      "position": 2,
+      "images": [],
+      "price": "25.00"
+    },
+    {
+      "id": "94304",
+      "name": "Enerjik ve Sağlıklı",
+      "position": 3,
+      "images": [],
+      "price": "40.00"
+
+    },
+    {
+      "id": "94307",
+      "name": "FED Benedict",
+      "position": 4,
+      "images": [],
+      "price": "38.00"
+    },
+    {
+      "id": "94307",
+      "name": "Somon Bombası",
+      "position": 4,
+      "images": [],
+      "price": "48.00"
+    },
+    {
+      "id": "94307",
+      "name": "Omlet Çeşitleri",
+      "position": 4,
+      "images": [],
+      "price": "29.00"
+    },
+    {
+      "id": "94307",
+      "name": "Menemen",
+      "position": 4,
+      "images": [],
+      "price": "29.00"
+    }
+  ]
+},
+
+
+  {
+    "id": "26600",
+    "name": "Burger ve Sandviçler",
+    "position": "0",
+    "menu-items": [
+      {
+        "id": "94399",
+        "name": "Federal Burger",
+        "position": 22,
+        "description": "",
+        "images": [],
+        "price": "48.00"
+      },
+      {
+        "id": "94319",
+        "name": "Cheese Burger",
+        "position": 23,
+        "images": [],
+        "price": "48.00"
+      },
+      {
+        "id": "94319",
+        "name": "Madame Croque",
+        "position": 23,
+        "images": [],
+        "price": "35.00"
+      },
+      {
+        "id": "94319",
+        "name": "Croque Monsieur",
+        "position": 23,
+        "images": [],
+        "price": "37.00"
+      },
+      {
+        "id": "94319",
+        "name": "Rozbif Sandviç",
+        "position": 23,
+        "images": [],
+        "price": "37.00"
+      },
+      {
+        "id": "94319",
+        "name": "Ton Sandviç",
+        "position": 23,
+        "images": [],
+        "price": "34.00"
+      }
+    ]
+  },
+  {
+    "id": "26585",
+    "name": "Esas Yemek",
+    "position": "0",
+    "menu-items": [
+      {
+        "id": "94340",
+        "name": "Teriyaki Somon Bowl",
+        "position": 28,
+        "images": [],
+        "price": "58.00"
+      },
+      {
+        "id": "94343",
+        "name": "Mangolu Ballı BBQ Tavuk Bowl",
+        "position": 29,
+        "images": [],
+        "price": "45.00"
+      },
+      {
+        "id": "94346",
+        "name": "Köfteli Bowl",
+        "position": 30,
+        "images": [],
+        "price": "42.00"
+      },
+      {
+        "id": "94346",
+        "name": "Vegan Bowl",
+        "position": 30,
+        "images": [],
+        "price": "35.00"
+      }
+    ]
+  },
+  {
+    "id": "26585",
+    "name": "Makarnalar",
+    "position": "0",
+    "menu-items": [
+      {
+        "id": "94340",
+        "name": "Köfteli Penne",
+        "position": 28,
+        "images": [],
+        "price": "36.00"
+      },
+      {
+        "id": "94343",
+        "name": "Penne Arabiata",
+        "position": 29,
+        "images": [],
+        "price": "19.00"
+      },
+      {
+        "id": "94346",
+        "name": "Kalamar Tava",
+        "position": 30,
+        "images": [],
+        "price": "34.00"
+      },
+      {
+        "id": "94346",
+        "name": "Tereyağında Karides Güveç",
+        "position": 30,
+        "images": [],
+        "price": "38.00"
+      },
+      {
+        "id": "94346",
+        "name": "Tavuk Bacon Tagliatelle",
+        "position": 30,
+        "images": [],
+        "price": "40.00"
+      }
+    ]
+  },
+  {
+    "id": "26585",
+    "name": "Salatalar",
+    "position": "0",
+    "menu-items": [
+      {
+        "id": "94340",
+        "name": "Somon Avokado",
+        "position": 28,
+        "images": [],
+        "price": "50.00"
+      },
+      {
+        "id": "94343",
+        "name": "Tavuk Mango Salata",
+        "position": 29,
+        "images": [],
+        "price": "42.00"
+      },
+      {
+        "id": "94346",
+        "name": "Ton Salata",
+        "position": 30,
+        "images": [],
+        "price": "42.00"
+      },
+      {
+        "id": "94346",
+        "name": "Köfteli Salata",
+        "position": 30,
+        "images": [],
+        "price": "36.00"
+      }
+    ]
+  }]
