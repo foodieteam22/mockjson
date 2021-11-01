@@ -2,7 +2,8 @@
 		"id": "4bc8088f15a7ef3b6b857ada",
 		"name": "Dalyan Club Restaurant",
 		"rating": "9.2",
-  		"ratio": "91",
+		"ratio": "91",
+		"percentile": "%91",
 		"rest-items": [{
 				"id": "94399",
 				"name": "Çocuk Oyun Alanı"
@@ -22,11 +23,11 @@
 
 	{
 		"id": "4bc8088f15a7ef3b6b857ada",
-		"name": "Cafe Cadde Restaurant",
+		"name": "Cafe Cadde",
 		"rating": "8.4",
 		"ratio": "65",
-		"rest-items": [
-		  {
+		"percentile": "%65",
+		"rest-items": [{
 				"id": "94399",
 				"name": "Çocuk Oyun Alanı"
 			},
@@ -38,4 +39,3 @@
 		]
 	}
 ]
-
