@@ -1,13 +1,37 @@
 [{
 		"id": "4bc8088f15a7ef3b6b857ada",
-		"name": "Dalyan Club Restaurant"
+		"name": "Dalyan Club Restaurant",
+		"position": "0",
+		"rest-items": [{
+				"id": "94399",
+				"name": "Çocuk Oyun Alanı"
+			},
+			{
+				"id": "94319",
+				"name": "Açık Alan"
 
+			},
+			{
+				"id": "94222",
+				"name": "Vegan"
 
+			}
+		]
 	},
+
 	{
 		"id": "4bc8088f15a7ef3b6b857ada",
-		"name": "Cafe Cadde"
+		"name": "Cafe Cadde",
+		"position": "0",
+		"rest-items": [{
+				"id": "94399",
+				"name": "Çocuk Oyun Alanı"
+			},
+			{
+				"id": "94319",
+				"name": "Açık Alan"
 
+			}
+		]
 	}
-
 ]
