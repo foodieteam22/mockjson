@@ -1,6 +1,6 @@
 [
   {
-		"id": "4bc8088f15a7ef3b6b857ada",
+		"id": 1,
 		"name": "Dalyan Club Restaurant",
 		"rating": "9.2",
 		"ratio": "91",
@@ -24,7 +24,7 @@
 	},
 
 	{
-		"id": "4bc8088f15a7ef3b6b857ada",
+		"id": 2,
 		"name": "Cafe Cadde Restaurant",
 		"rating": "8.4",
 		"ratio": "65",
@@ -43,7 +43,7 @@
 
 
 	{
-		"id": "4bc8088f15a7ef3b6b857ada",
+		"id": 3,
 		"name": "Beyaz İnci Restaurant ",
 		"rating": "7.2",
 		"ratio": "35",
@@ -60,7 +60,7 @@
 		]
 	},
 	{
-		"id": "4bc8088f15a7ef3b6b857ada",
+		"id": 4,
 		"name": "Turgut Kebap Restaurant",
 		"rating": "6.4",
 		"ratio": "45",
@@ -77,7 +77,7 @@
 		]
 	},
 	{
-		"id": "4bc8088f15a7ef3b6b857ada",
+		"id": 5,
 		"name": "Küçükoğlu Barbekü",
 		"rating": "5.4",
 		"ratio": "65",
@@ -94,7 +94,7 @@
 		]
 	},
 	{
-		"id": "4bc8088f15a7ef3b6b857ada",
+		"id": 6,
 		"name": "Cafe Cadde Restaurant",
 		"rating": "8.4",
 		"ratio": "65",
@@ -111,7 +111,7 @@
 		]
 	},
 	{
-		"id": "4bc8088f15a7ef3b6b857ada",
+		"id": 7,
 		"name": "Nicole Rise Restaurant",
 		"rating": "8.4",
 		"ratio": "65",
