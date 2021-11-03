@@ -11,43 +11,43 @@
 	  	"county": "Maltepe",
 		"rest-items": [{
 				"id": "1",
-				"name": "Çocuk Oyun Alanı"
+				"name": "Çocuk Oyun Alanı",
 				"hasFeature": "True"
 			},
 		
 			{
 				"id": "2",
-				"name": "Vegan"
+				"name": "Vegan",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "3",
-				"name": "Evcil Hayvan"
+				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "4",
-				"name": "Canlı Müzik"
+				"name": "Canlı Müzik",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "5",
-				"name": "Deniz Manzarası"
+				"name": "Deniz Manzarası",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "6",
-				"name": "Alkol"
+				"name": "Alkol",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "7",
-				"name": "Self Servis"
+				"name": "Self Servis",
 				"hasFeature": "False"
 
 			}
@@ -67,55 +67,55 @@
 		"rest-items": [
 			{
 				"id": "1",
-				"name": "Çocuk Oyun Alanı"
+				"name": "Çocuk Oyun Alanı",
 				"hasFeature": "True"
 			},
 		
 			{
 				"id": "2",
-				"name": "Vegan"
+				"name": "Vegan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "3",
-				"name": "Evcil Hayvan"
+				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "4",
-				"name": "Canlı Müzik"
+				"name": "Canlı Müzik",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "5",
-				"name": "Deniz Manzarası"
+				"name": "Deniz Manzarası",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "6",
-				"name": "Alkol"
+				"name": "Alkol",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "7",
-				"name": "Self Servis"
+				"name": "Self Servis",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "8",
-				"name": "Otopark"
+				"name": "Otopark",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "9",
-				"name": "Vale"
+				"name": "Vale",
 				"hasFeature": "True"
 
 			}
@@ -135,55 +135,55 @@
 		"rest-items": [
 			{
 				"id": "1",
-				"name": "Çocuk Oyun Alanı"
+				"name": "Çocuk Oyun Alanı",
 				"hasFeature": "True"
 			},
 		
 			{
 				"id": "2",
-				"name": "Vegan"
+				"name": "Vegan",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "3",
-				"name": "Evcil Hayvan"
+				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "4",
-				"name": "Canlı Müzik"
+				"name": "Canlı Müzik",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "5",
-				"name": "Deniz Manzarası"
+				"name": "Deniz Manzarası",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "6",
-				"name": "Alkol"
+				"name": "Alkol",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "7",
-				"name": "Self Servis"
+				"name": "Self Servis",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "8",
-				"name": "Otopark"
+				"name": "Otopark",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "9",
-				"name": "Vale"
+				"name": "Vale",
 				"hasFeature": "False"
 
 			}
@@ -201,55 +201,55 @@
 		"rest-items": [
 			{
 				"id": "1",
-				"name": "Çocuk Oyun Alanı"
+				"name": "Çocuk Oyun Alanı",
 				"hasFeature": "True"
 			},
 		
 			{
 				"id": "2",
-				"name": "Vegan"
+				"name": "Vegan",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "3",
-				"name": "Evcil Hayvan"
+				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "4",
-				"name": "Canlı Müzik"
+				"name": "Canlı Müzik",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "5",
-				"name": "Deniz Manzarası"
+				"name": "Deniz Manzarası",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "6",
-				"name": "Alkol"
+				"name": "Alkol",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "7",
-				"name": "Self Servis"
+				"name": "Self Servis",
 				"hasFeature": "False"
 
 			},
 {
 				"id": "8",
-				"name": "Otopark"
+				"name": "Otopark",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "9",
-				"name": "Vale"
+				"name": "Vale",
 				"hasFeature": "True"
 
 			}
@@ -267,55 +267,55 @@
 		"rest-items": [
 			{
 				"id": "1",
-				"name": "Çocuk Oyun Alanı"
+				"name": "Çocuk Oyun Alanı",
 				"hasFeature": "True"
 			},
 		
 			{
 				"id": "2",
-				"name": "Vegan"
+				"name": "Vegan",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "3",
-				"name": "Evcil Hayvan"
+				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "4",
-				"name": "Canlı Müzik"
+				"name": "Canlı Müzik",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "5",
-				"name": "Deniz Manzarası"
+				"name": "Deniz Manzarası",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "6",
-				"name": "Alkol"
+				"name": "Alkol",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "7",
-				"name": "Self Servis"
+				"name": "Self Servis",
 				"hasFeature": "False"
 
 			},
 {
 				"id": "8",
-				"name": "Otopark"
+				"name": "Otopark",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "9",
-				"name": "Vale"
+				"name": "Vale",
 				"hasFeature": "False"
 
 			}
@@ -332,55 +332,55 @@
 	  	"county": "Kadıköy",
 		"rest-items": [{
 				"id": "1",
-				"name": "Çocuk Oyun Alanı"
+				"name": "Çocuk Oyun Alanı",
 				"hasFeature": "True"
 			},
 		
 			{
 				"id": "2",
-				"name": "Vegan"
+				"name": "Vegan",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "3",
-				"name": "Evcil Hayvan"
+				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "4",
-				"name": "Canlı Müzik"
+				"name": "Canlı Müzik",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "5",
-				"name": "Deniz Manzarası"
+				"name": "Deniz Manzarası",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "6",
-				"name": "Alkol"
+				"name": "Alkol",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "7",
-				"name": "Self Servis"
+				"name": "Self Servis",
 				"hasFeature": "False"
 
 			},
 {
 				"id": "8",
-				"name": "Otopark"
+				"name": "Otopark",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "9",
-				"name": "Vale"
+				"name": "Vale",
 				"hasFeature": "True"
 
 			}
@@ -396,55 +396,55 @@
 	  	"county": "Ortaköy",
 		"rest-items": [{
 				"id": "1",
-				"name": "Çocuk Oyun Alanı"
+				"name": "Çocuk Oyun Alanı",
 				"hasFeature": "False"
 			},
 		
 			{
 				"id": "2",
-				"name": "Vegan"
+				"name": "Vegan",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "3",
-				"name": "Evcil Hayvan"
+				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "4",
-				"name": "Canlı Müzik"
+				"name": "Canlı Müzik",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "5",
-				"name": "Deniz Manzarası"
+				"name": "Deniz Manzarası",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "6",
-				"name": "Alkol"
+				"name": "Alkol",
 				"hasFeature": "True"
 
 			},
 			{
 				"id": "7",
-				"name": "Self Servis"
+				"name": "Self Servis",
 				"hasFeature": "False"
 
 			},
 {
 				"id": "8",
-				"name": "Otopark"
+				"name": "Otopark",
 				"hasFeature": "False"
 
 			},
 			{
 				"id": "9",
-				"name": "Vale"
+				"name": "Vale",
 				"hasFeature": "False"
 
 			}
