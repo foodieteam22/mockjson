@@ -6,17 +6,52 @@
 		"rating": "9.2",
 		"ratio": "91",
 		"percentile": "%91",
-
+		"workingHours": "08:00 - 23:00",
+	  	"city" : "İstanbul",
+	  	"county": "Maltepe",
 		"rest-items": [{
-				"id": "94399",
+				"id": "1",
 				"name": "Çocuk Oyun Alanı"
+				"hasFeature": "True"
 			},
 		
 			{
-				"id": "94222",
+				"id": "2",
 				"name": "Vegan"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "3",
+				"name": "Evcil Hayvan"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "4",
+				"name": "Canlı Müzik"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "5",
+				"name": "Deniz Manzarası"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "6",
+				"name": "Alkol"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "7",
+				"name": "Self Servis"
+				"hasFeature": "False"
 
 			}
+			       
 		]
 	},
 
@@ -26,13 +61,62 @@
 		"rating": "8.4",
 		"ratio": "65",
 		"percentile": "%65",
-		"rest-items": [{
-				"id": "94399",
+		"workingHours": "10:00 - 23:00",
+		"city" : "İstanbul",
+	  	"county": "Kadıköy",
+		"rest-items": [
+			{
+				"id": "1",
 				"name": "Çocuk Oyun Alanı"
+				"hasFeature": "True"
+			},
+		
+			{
+				"id": "2",
+				"name": "Vegan"
+				"hasFeature": "False"
+
 			},
 			{
-				"id": "94319",
-				"name": "Açık Alan"
+				"id": "3",
+				"name": "Evcil Hayvan"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "4",
+				"name": "Canlı Müzik"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "5",
+				"name": "Deniz Manzarası"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "6",
+				"name": "Alkol"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "7",
+				"name": "Self Servis"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "8",
+				"name": "Otopark"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "9",
+				"name": "Vale"
+				"hasFeature": "True"
 
 			}
 		]
@@ -45,13 +129,62 @@
 		"rating": "7.2",
 		"ratio": "35",
 		"percentile": "%35",
-		"rest-items": [{
-				"id": "94399",
+		"workingHours": "12:00 - 00:00",
+		"city" : "İstanbul",
+	  	"county": "Beşiktaş",
+		"rest-items": [
+			{
+				"id": "1",
 				"name": "Çocuk Oyun Alanı"
+				"hasFeature": "True"
+			},
+		
+			{
+				"id": "2",
+				"name": "Vegan"
+				"hasFeature": "True"
+
 			},
 			{
-				"id": "94222",
-				"name": "Vegan"
+				"id": "3",
+				"name": "Evcil Hayvan"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "4",
+				"name": "Canlı Müzik"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "5",
+				"name": "Deniz Manzarası"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "6",
+				"name": "Alkol"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "7",
+				"name": "Self Servis"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "8",
+				"name": "Otopark"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "9",
+				"name": "Vale"
+				"hasFeature": "False"
 
 			}
 		]
@@ -62,13 +195,62 @@
 		"rating": "6.4",
 		"ratio": "45",
 		"percentile": "%45",
-		"rest-items": [{
-				"id": "94399",
+		"workingHours": "09:00 - 23:00",
+		"city" : "İstanbul",
+	  	"county": "Kartal",
+		"rest-items": [
+			{
+				"id": "1",
 				"name": "Çocuk Oyun Alanı"
+				"hasFeature": "True"
+			},
+		
+			{
+				"id": "2",
+				"name": "Vegan"
+				"hasFeature": "True"
+
 			},
 			{
-				"id": "94319",
-				"name": "Açık Alan"
+				"id": "3",
+				"name": "Evcil Hayvan"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "4",
+				"name": "Canlı Müzik"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "5",
+				"name": "Deniz Manzarası"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "6",
+				"name": "Alkol"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "7",
+				"name": "Self Servis"
+				"hasFeature": "False"
+
+			},
+{
+				"id": "8",
+				"name": "Otopark"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "9",
+				"name": "Vale"
+				"hasFeature": "True"
 
 			}
 		]
@@ -79,13 +261,62 @@
 		"rating": "5.4",
 		"ratio": "65",
 		"percentile": "%65",
-		"rest-items": [{
-				"id": "94399",
+		"workingHours": "11:00 - 23:00",
+		"city" : "İstanbul",
+	  	"county": "Ataşehir",
+		"rest-items": [
+			{
+				"id": "1",
 				"name": "Çocuk Oyun Alanı"
+				"hasFeature": "True"
+			},
+		
+			{
+				"id": "2",
+				"name": "Vegan"
+				"hasFeature": "True"
+
 			},
 			{
-				"id": "94319",
-				"name": "Açık Alan"
+				"id": "3",
+				"name": "Evcil Hayvan"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "4",
+				"name": "Canlı Müzik"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "5",
+				"name": "Deniz Manzarası"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "6",
+				"name": "Alkol"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "7",
+				"name": "Self Servis"
+				"hasFeature": "False"
+
+			},
+{
+				"id": "8",
+				"name": "Otopark"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "9",
+				"name": "Vale"
+				"hasFeature": "False"
 
 			}
 		]
@@ -96,13 +327,61 @@
 		"rating": "8.4",
 		"ratio": "65",
 		"percentile": "%65",
+		"workingHours": "10:00 - 22:00",
+		"city" : "İstanbul",
+	  	"county": "Kadıköy",
 		"rest-items": [{
-				"id": "94399",
+				"id": "1",
 				"name": "Çocuk Oyun Alanı"
+				"hasFeature": "True"
+			},
+		
+			{
+				"id": "2",
+				"name": "Vegan"
+				"hasFeature": "True"
+
 			},
 			{
-				"id": "94319",
-				"name": "Açık Alan"
+				"id": "3",
+				"name": "Evcil Hayvan"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "4",
+				"name": "Canlı Müzik"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "5",
+				"name": "Deniz Manzarası"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "6",
+				"name": "Alkol"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "7",
+				"name": "Self Servis"
+				"hasFeature": "False"
+
+			},
+{
+				"id": "8",
+				"name": "Otopark"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "9",
+				"name": "Vale"
+				"hasFeature": "True"
 
 			}
 		]
@@ -113,13 +392,60 @@
 		"rating": "8.4",
 		"ratio": "65",
 		"percentile": "%65",
+		"city" : "İstanbul",
+	  	"county": "Ortaköy",
 		"rest-items": [{
-				"id": "94399",
+				"id": "1",
 				"name": "Çocuk Oyun Alanı"
+				"hasFeature": "False"
+			},
+		
+			{
+				"id": "2",
+				"name": "Vegan"
+				"hasFeature": "True"
+
 			},
 			{
-				"id": "94319",
-				"name": "Açık Alan"
+				"id": "3",
+				"name": "Evcil Hayvan"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "4",
+				"name": "Canlı Müzik"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "5",
+				"name": "Deniz Manzarası"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "6",
+				"name": "Alkol"
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "7",
+				"name": "Self Servis"
+				"hasFeature": "False"
+
+			},
+{
+				"id": "8",
+				"name": "Otopark"
+				"hasFeature": "False"
+
+			},
+			{
+				"id": "9",
+				"name": "Vale"
+				"hasFeature": "False"
 
 			}
 		]
