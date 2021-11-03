@@ -118,6 +118,30 @@
 				"name": "Vale",
 				"hasFeature": "True"
 
+			},
+			{
+				"id": "10",
+				"name": "Deniz Manzarası",
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "11",
+				"name": "Deniz Manzarası",
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "12",
+				"name": "Deniz Manzarası",
+				"hasFeature": "True"
+
+			},
+			{
+				"id": "13",
+				"name": "Deniz Manzarası",
+				"hasFeature": "True"
+
 			}
 		]
 	},
