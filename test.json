@@ -27,32 +27,8 @@
 				"name": "Evcil Hayvan",
 				"hasFeature": "False"
 
-			},
-			{
-				"id": "4",
-				"name": "Canlı Müzik",
-				"hasFeature": "True"
-
-			},
-			{
-				"id": "5",
-				"name": "Deniz Manzarası",
-				"hasFeature": "True"
-
-			},
-			{
-				"id": "6",
-				"name": "Alkol",
-				"hasFeature": "False"
-
-			},
-			{
-				"id": "7",
-				"name": "Self Servis",
-				"hasFeature": "False"
-
 			}
-
+			
 		]
 	},
 
