@@ -9,7 +9,7 @@
 		"city": "İstanbul",
 		"county": "Maltepe",
 		"image": "https://media-cdn.tripadvisor.com/media/photo-s/13/21/85/50/venue.jpg",
-		"imageResource" : "https://github.com/foodieteam22/mockjson/blob/main/TableSchemeSample.jpg",
+		"imageResource" : "https://raw.githubusercontent.com/foodieteam22/mockjson/main/TableSchemeSample.jpg",
 		"rest-items": [{
 				"id": "1",
 				"name": "Çocuk Oyun Alanı",
