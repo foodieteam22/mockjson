@@ -42,7 +42,7 @@
 		"city": "İstanbul",
 		"county": "Kadıköy",
 		"image": "https://media-cdn.tripadvisor.com/media/photo-f/0b/c9/7f/f9/the-restaurant-padma.jpg",
-		"imageResource" : "https://github.com/foodieteam22/mockjson/blob/main/TableSchemeSample.jpg",
+		"imageResource" : "https://raw.githubusercontent.com/foodieteam22/mockjson/main/TableSchemeSample.jpg",
 		"rest-items": [{
 				"id": "1",
 				"name": "Çocuk Oyun Alanı",
@@ -135,7 +135,7 @@
 		"city": "İstanbul",
 		"county": "Beşiktaş",
 		"image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/62/12/8f/getlstd-property-photo.jpg",
-		"imageResource" : "https://github.com/foodieteam22/mockjson/blob/main/TableSchemeSample.jpg",
+		"imageResource" : "https://raw.githubusercontent.com/foodieteam22/mockjson/main/TableSchemeSample.jpg",
 		"rest-items": [{
 				"id": "1",
 				"name": "Çocuk Oyun Alanı",
@@ -202,7 +202,7 @@
 		"city": "İstanbul",
 		"county": "Kartal",
 		"image": "https://media-cdn.tripadvisor.com/media/photo-s/02/ce/15/c8/beautiful.jpg",
-		"imageResource" : "https://github.com/foodieteam22/mockjson/blob/main/TableSchemeSample.jpg",
+		"imageResource" : "https://raw.githubusercontent.com/foodieteam22/mockjson/main/TableSchemeSample.jpg",
 		"rest-items": [{
 				"id": "1",
 				"name": "Çocuk Oyun Alanı",
@@ -269,7 +269,7 @@
 		"city": "İstanbul",
 		"county": "Ataşehir",
 		"image": "https://media-cdn.tripadvisor.com/media/photo-s/21/52/18/a2/justus-steakhouse-paris.jpg",
-		"imageResource" : "https://github.com/foodieteam22/mockjson/blob/main/TableSchemeSample.jpg",
+		"imageResource" : "https://raw.githubusercontent.com/foodieteam22/mockjson/main/TableSchemeSample.jpg",
 		"rest-items": [{
 				"id": "1",
 				"name": "Çocuk Oyun Alanı",
@@ -336,7 +336,7 @@
 		"city": "İstanbul",
 		"county": "Kadıköy",
 		"image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/5e/65/13/ruang-lesehan-paviliun.jpg",
-		"imageResource" : "https://github.com/foodieteam22/mockjson/blob/main/TableSchemeSample.jpg",
+		"imageResource" : "https://raw.githubusercontent.com/foodieteam22/mockjson/main/TableSchemeSample.jpg",
 		"rest-items": [{
 				"id": "1",
 				"name": "Çocuk Oyun Alanı",
@@ -402,7 +402,7 @@
 		"city": "İstanbul",
 		"county": "Ortaköy",
 		"image": "https://media-cdn.tripadvisor.com/media/photo-s/10/93/99/74/purnawarman-restaurant.jpg",
-		"imageResource" : "https://github.com/foodieteam22/mockjson/blob/main/TableSchemeSample.jpg",
+		"imageResource" : "https://raw.githubusercontent.com/foodieteam22/mockjson/main/TableSchemeSample.jpg",
 		"rest-items": [{
 				"id": "1",
 				"name": "Çocuk Oyun Alanı",
